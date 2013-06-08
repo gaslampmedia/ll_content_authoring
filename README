@@ -1,0 +1,10 @@
+Lamplighter Content Authoring is a starter kit to be used with new Drupal installations. It creates “Filtered HTML” and “Full HTML” text formats and an accompanying Wysiwyg profile for each with buttons and plugins enabled. After enabling the feature, you can turn it off and customize your text formats and wysiwyg profiles to your own needs.
+
+Requirements:
+
+Features
+Libraries
+CK Editor (Version 3.6.6.1 Recommended)
+
+
+
